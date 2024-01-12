@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pastaya
 - 👀 I’m interested in Geometry Dash
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and Web Devolpment
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: gimme spaghetti
 
