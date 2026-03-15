@@ -1,16 +1,19 @@
-## Hi there 👋
+# heyo!  
+i don't usually do stuff here, because i moved to [codeberg](https://codeberg.org)  
+mostly just issues and prs here  
 
-<!--
-**pastadudes/pastadudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i code (probably)  
+i am mostly self taught  
+anyways welcome to my github profile!  
+i talk nix and rust  
 
-Here are some ideas to get you started:
+## interests
+vocaloids (MEIKO is my favorite)  
+[osu!{std, mania, taiko};](https://github.com/ppy/osu)    
+[taisei](https://github.com/taisei-project/taisei)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- [pastaya.net](https://github.com/pastadudes/pastaya.net)
+- [cbg](https://codeberg.org/pastaya/cbg)
+- [pjcs](https://codeberg.org/pjcs/pjcs)
+- [pjsk-rs (now archived because bevy wasn't the right choice)](https://codeberg.org/pjsk-rs/pjsk-rs)
