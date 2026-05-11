@@ -9,11 +9,11 @@ i talk nix and rust
 
 ## interests
 vocaloids (MEIKO is my favorite)  
-[osu!{std, mania, taiko};](https://github.com/ppy/osu)    
+[osu!mania](https://github.com/ppy/osu)    
 [taisei](https://github.com/taisei-project/taisei)  
 
 ## projects
-- [pastaya.net](https://github.com/pastadudes/pastaya.net)
+- [pastaya.dev](https://codeberg.org/pastaya/pastaya.dev)
 - [cbg](https://codeberg.org/pastaya/cbg)
 - [pjcs](https://codeberg.org/pjcs/pjcs)
 - [pjsk-rs (now archived because bevy wasn't the right choice)](https://codeberg.org/pjsk-rs/pjsk-rs)
